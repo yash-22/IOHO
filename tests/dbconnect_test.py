@@ -1,7 +1,7 @@
 import datetime
 from dbconnect import DbConnect
 
-filename = "filename.mp4"
+filename = "FILENAME.mp4"
 crime_title = "Amazing video :)"
 t1 = 27
 t2 = 32

@@ -1,3 +1,5 @@
+from context import Context
+
 objects = ['Knife', 'Man', 'Woman', 'Car', 'Garbage Can']
 
 if __name__ == '__main__':
